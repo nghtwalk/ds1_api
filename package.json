@@ -1,0 +1,38 @@
+{
+  "name": "ds1_api",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@react-three/drei": "^9.122.0",
+    "@react-three/fiber": "^8.0.0",
+    "@react-three/postprocessing": "^2.5.0",
+    "framer-motion": "^12.4.10",
+    "maath": "^0.10.8",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-icon": "^1.0.0",
+    "react-router-dom": "^7.3.0",
+    "react-tilt": "^1.0.2",
+    "react-vertical-timeline-component": "^3.6.0",
+    "three": "^0.173.0",
+    "three-mesh-bvh": "^0.9.0",
+    "three-particle-fire": "^0.1.0"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.21.0",
+    "@types/react": "^18.0.27",
+    "@types/react-dom": "^18.0.10",
+    "@vitejs/plugin-react": "^4.3.4",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^3.4.17",
+    "vite": "^6.2.0"
+  }
+}
