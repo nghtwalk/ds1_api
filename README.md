@@ -13,6 +13,7 @@
 ## 📌 About the Project
 This project is an interactive API based on Dark Souls 1, developed to list all the game’s bosses, including details about their locations and the items they drop. Through a simple search input, users can quickly find and retrieve information about any boss.
 Additionally, to provide an immersive experience, I implemented a 3D model of a warrior sitting around the game's bonfire. The model is fully interactive, allowing users to explore the 3D environment with ease.
+I also added a music system that plays a track from the game, with the option to mute and unmute the audio, enhancing the atmosphere while interacting with the app.
 
  ## <a name="tech-stack">🔧 Tech Stack</a>
   - React.js
