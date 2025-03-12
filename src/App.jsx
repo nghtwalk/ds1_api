@@ -1,5 +1,6 @@
 import { BrowserRouter } from "react-router-dom";
-import { Cards, Hero, Navbar, } from './components';
+import { Cards, Hero } from './components';
+import Navbar from './components/Navbar';
 
 const App = () => {
   return (
